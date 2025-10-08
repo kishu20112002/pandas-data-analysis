@@ -6,7 +6,7 @@
 - -Pandas analytics concepts and hands-on examples
 
 
-#Pandas Analytics Notes
+# Pandas Analytics Notes
 
 This repository contains my notes, examples, and practical exercises on Pandas – the Python library for data manipulation and analysis.
 
