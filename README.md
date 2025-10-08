@@ -14,20 +14,12 @@ It is designed to help beginners and intermediate learners understand how to wor
 
 Topics Covered
 
-Introduction to Pandas
-
-Series and DataFrames
-
-Reading and Writing Data (CSV, Excel, etc.)
-
-Data Cleaning and Preprocessing
-
-Filtering, Sorting, and Selecting Data
-
-GroupBy and Aggregation
-
-Merging and Joining DataFrames
-
-Data Visualization with Pandas
-
-Useful Tips and Tricks
+- Introduction to Pandas
+- Series and DataFrames
+- Reading and Writing Data (CSV, Excel, etc.)
+- Data Cleaning and Preprocessing
+- Filtering, Sorting, and Selecting Data
+- GroupBy and Aggregation
+- Merging and Joining DataFrames
+- Data Visualization with Pandas
+- Useful Tips and Tricks
